@@ -1,0 +1,11 @@
+﻿Planteo con arreglo de registros
+
+En una empresa de venta de autos, se registran los siguientes datos anuales por cada una de sus 7 sucursales: nombre de la Sucursal (30 caracteres), año de inauguracion, importe por la venta de cada mes del año (maximo $3000.000.000,00 por mes) y el stock de autos al inicio y al finalizar el año. No hay reposiciones durante el año.
+
+Para poder realizar comparaciones entre los datos generados por el funcionamiento de diferentes sucursales, que se ubican en diferentes provincias, se le adiciona a cada sucursal el codigo de provincia.
+
+Se ingresan inicialmente los nombres de cada provincia (15 caracteres) y luego los datos de las sucursales de manera ordenada por cada sucursal y se debe informar:
+
+a) El nombre de las provincias donde la sucursal tuvo una venta promedio anual mayor a la venta promedio anual entre todas las sucursales, acompañado al nombre con la cantidad de meses sin ventas. No se consiceran los meses sin ventas para calcular el promedio anual de una sucursal.
+
+b) El nombre de cada sucursal que vendio mas del 40% del stock inicial, acompañado con el año de inicio de actividades y con el nomre de cada mes en el que registró una recaudación mayor al resto de una de las sucursales con ventas en dicho mes.
